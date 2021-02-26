@@ -10,5 +10,9 @@ describe('Taylor series', function() {
   
     it('has to be equal to 10', function() {
       assert.equal(Calc.Taylor(), 10);
-    })
+    });
+
+    it('10 equals 10', function() {
+        assert.equal(10, 10);
+      })
   })

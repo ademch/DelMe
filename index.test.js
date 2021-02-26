@@ -13,6 +13,6 @@ describe('Taylor series', function() {
     });
 
     it('10 equals 10', function() {
-        assert.equal(10, 10);
+        assert.equal(10, 9);
       })
   })

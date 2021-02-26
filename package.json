@@ -1,0 +1,23 @@
+{
+  "name": "taylor",
+  "version": "1.0.0",
+  "description": "Taylor series",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha index.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ademch/DelMe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ademch/DelMe/issues"
+  },
+  "homepage": "https://github.com/ademch/DelMe#readme",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "mocha": "^8.3.0"
+  }
+}
